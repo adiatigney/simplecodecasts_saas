@@ -1,3 +1,13 @@
+.user-show-avatar {
+  height: 162px;
+  width: 162px;
+}
+
+.community-show-avatar {
+  height: 125px;
+  width: 125px;
+}
+
 .job-title-icon {
   display: inline-block;
   width: 30px; 
@@ -36,4 +46,8 @@ img {
   box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
   border-radius: 50%;
   border: 2px solid white;
+}
+
+.well.gray-bg {
+  background-color: #E6F5ED;
 }
